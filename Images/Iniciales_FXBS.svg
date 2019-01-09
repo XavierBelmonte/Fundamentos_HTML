@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:cc="http://creativecommons.org/ns#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="5500"
+   height="5500"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg3597"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Iniciales_FXBS.svg">
+  <defs
+     id="defs3591" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="117.01263"
+     inkscape:cy="1055.2823"
+     inkscape:document-units="mm"
+     inkscape:current-layer="svg3597"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="1125"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3594">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     sodipodi:type="spiral"
+     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332"
+     id="path3622"
+     sodipodi:cx="9.1659231"
+     sodipodi:cy="14.557291"
+     sodipodi:expansion="1"
+     sodipodi:revolution="0.89482599"
+     sodipodi:radius="18.142857"
+     sodipodi:argument="-5.6223574"
+     sodipodi:t0="0"
+     d="M 9.1659231,14.557291 C 11.573623,16.429115 7.8306159,18.726315 6.0548283,18.559047 1.2425538,18.105762 -0.26108299,12.202824 1.1624111,8.3351015 3.7087082,1.4166541 12.338409,-0.43708706 18.499207,2.5520231 23.198124,4.8318538 26.402439,9.4615164 27.30878,14.557294"
+     transform="matrix(1.4773698,0,0,1,-0.30960985,0)" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.64810944px;line-height:1.25;font-family:Aparajita;-inkscape-font-specification:'Aparajita, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.36620274;"
+     x="4.8212981"
+     y="13.466509"
+     id="text3628"
+     transform="scale(0.96656813,1.0345882)"><tspan
+       sodipodi:role="line"
+       id="tspan3626"
+       x="4.8212981"
+       y="13.466509"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.64810944px;font-family:Aparajita;-inkscape-font-specification:'Aparajita, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.36620274;fill:#0000ff;">FXBS</tspan></text>
+</svg>
